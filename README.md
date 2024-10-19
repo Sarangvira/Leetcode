@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sarangvira/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sarangvira/Leetcode/tree/master/0015-3sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sarangvira/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sarangvira/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sarangvira/Leetcode/tree/master/0013-roman-to-integer) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sarangvira/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -23,13 +25,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sarangvira/Leetcode/tree/master/0015-3sum) |
 | [0344-reverse-string](https://github.com/Sarangvira/Leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sarangvira/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sarangvira/Leetcode/tree/master/0015-3sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sarangvira/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sarangvira/Leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Sarangvira/Leetcode/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sarangvira/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
